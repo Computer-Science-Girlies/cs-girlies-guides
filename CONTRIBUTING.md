@@ -87,7 +87,7 @@ Common practices:
 
 Be kind. Be respectful. We’re building a safe, inclusive space where everyone can thrive.
 
-Please read our [CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) before contributing.
+Please read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing.
 
 ---
 
