@@ -14,7 +14,8 @@ If you are completely new to git and github, you could play around with it. We h
 - [Git School Dude](https://www.youtube.com/c/DanGitschoolDude) (are you the ones who **loves to learn from youtube**? this is yours)
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet) (this applies for newbies and advanced, we all forget commands)
 - [Undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html) (fix an oopsie)
-😉
+
+
 (if you have more resources that might help, feel free to contribute to this guide 😉)
 
 ---
