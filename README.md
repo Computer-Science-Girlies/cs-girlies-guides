@@ -6,8 +6,8 @@ Welcome to the **CS Girlies Guides** repo — a growing collection of guides, re
 ## 📂 File Table of Contents
 
 - [README.md](./README.md) – You’re here!
-- [CONTRIBUTE_GUIDE.md](./CONTRIBUTE/CONTRIBUTE_GUIDE.md) – Quick contribution guide
-- [CONTRIBUTING.md](./CONTRIBUTE/CONTRIBUTING.md) – Detailed guide about submitting contributions
+- [CONTRIBUTE_GUIDE.md](./CONTRIBUTE_GUIDE.md) – Quick contribution guide
+- [CONTRIBUTING.md](./CONTRIBUTING.md) – Detailed guide about submitting contributions
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) – Community expectations and behavior standards
 
 ---
