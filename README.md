@@ -17,4 +17,4 @@ Welcome to the **CS Girlies Guides** repo — a growing collection of guides, re
 
 With love,  
 💻 The Computer Science Girlies Team  
-🌐 [GitHub Org](https://github.com/Computer-Science-Girlies) | 💬 [Discord](https://discord.com/invite/computer-science-girlies-1116490225615634503)
+🌐 [GitHub Org](https://github.com/Computer-Science-Girlies) | 💬 [Discord](https://discord.gg/uqMwZvXHBE)

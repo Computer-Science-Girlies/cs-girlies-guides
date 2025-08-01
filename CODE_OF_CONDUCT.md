@@ -62,4 +62,4 @@ _Adapted from [Contributor Covenant v2.1](https://www.contributor-covenant.org/v
 
 With love,  
 💻 The Computer Science Girlies Team  
-🌐 [GitHub Org](https://github.com/Computer-Science-Girlies) | 💬 [Discord](https://discord.com/invite/computer-science-girlies-1116490225615634503)
+🌐 [GitHub Org](https://github.com/Computer-Science-Girlies) | 💬 [Discord](https://discord.gg/uqMwZvXHBE)

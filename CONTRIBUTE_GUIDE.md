@@ -99,4 +99,4 @@ Thank you for considering a contribution. Every little bit helps, and you're mak
 
 With love,  
 💻 The Computer Science Girlies Team  
-🌐 [GitHub Org](https://github.com/Computer-Science-Girlies) | 💬 [Discord](https://discord.com/invite/computer-science-girlies-1116490225615634503)
+🌐 [GitHub Org](https://github.com/Computer-Science-Girlies) | 💬 [Discord](https://discord.gg/uqMwZvXHBE)
