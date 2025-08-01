@@ -33,6 +33,13 @@ All contributors, maintainers, and participants are expected to follow this code
 
 ---
 
+## 🚫 Tampering with Code
+
+- Do not intentionally alter, sabotage, or overwrite another contributor’s code without consent.
+- Collaboration is built on **trust** — violating that trust by tampering is unacceptable.
+
+**⚠️INTENTIONAL TAMPERING WILL RESULT IN A PERMANENT BAN FROM THE COMMUNITY. ⚠️**
+
 ## 💬 Reporting Issues
 
 If someone violates this code, or makes you feel uncomfortable:
