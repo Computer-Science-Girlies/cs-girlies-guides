@@ -71,6 +71,17 @@ Common practices:
 - Use clear, meaningful commit messages
 - Leave helpful comments if your code is doing something non-obvious
 - Keep pull requests small & focused (one "thing" at a time!)
+- Document your code, this will help others (and even yourself) understand what the code does
+
+### But how do I document properly? 😫
+⚠️ DON'T PANIC ⚠️, we are not looking for perfectionist or over-explainers!
+Just remember:
+- Write a short description at the top of your function/class (what it’s supposed to do/return), if needed
+- Add comments `ONLY` where the code might be confusing, no need to comment everything tho 🙂‍↔️
+- If there is a change that affects the code *(yours or someone else’s)*, **don't forget to update the README or just add a quick note**
+- Keep it ✨simple✨
+
+> Clear words >>>> Fancy words 
 
 ---
 
