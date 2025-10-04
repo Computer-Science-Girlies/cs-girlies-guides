@@ -9,6 +9,7 @@ Welcome to the **CS Girlies Guides** repo — a growing collection of guides, re
 - [CONTRIBUTE_GUIDE.md](./CONTRIBUTE_GUIDE.md) – Quick contribution guide
 - [CONTRIBUTING.md](./CONTRIBUTING.md) – Detailed guide about submitting contributions
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) – Community expectations and behavior standards
+- [HOSTING_GUIDE.md](./HOSTING_GUIDE.md) – A web-hosting guide for your project
 
 ---
 ⚠️ Under development ⚠️
